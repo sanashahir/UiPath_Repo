@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Rephrase thank you message",
+  "Type": "App",
+  "Id": "E3hMHq003EimHEqH0CrcFg",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/E3hMHq003EimHEqH0CrcFg",
+  "Created": "2025-10-17T05:48:22.4205351Z",
+  "Updated": "2025-10-17T05:48:22.4205351Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CONTINUE",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "grtd7y17EEmkssXNSK1FjA",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/grtd7y17EEmkssXNSK1FjA",
+  "ParentRef": "aG0BlFRUZEm3Zw-xqxWwug/iMzuU63sf0SiwuzCsEm94A",
+  "Created": "2025-10-21T07:14:44.1981829Z",
+  "Updated": "2025-10-21T07:14:44.1981829Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

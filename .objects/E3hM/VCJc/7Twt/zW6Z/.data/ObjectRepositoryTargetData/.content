@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eZGlYPio4U2VYEBoAR-QVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1" CVScreenId="3e6ca661-f260-46c5-a6c9-09bb276ad641" CvElementArea="504, 370, 442, 49" CvType="InputBox" DesignTimeRectangle="509, 433, 433, 52" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='user-name' tag='INPUT' /&gt;" Guid="49301385-8641-4f47-9faf-6209fa7af027" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3e6ca661-f260-46c5-a6c9-09bb276ad641" CvElementArea="504, 370, 442, 49" CvType="InputBox" DesignTimeRectangle="504, 370, 442, 49" ElementType="InputBox" Guid="4602ba3d-d811-484e-80a9-5e717a156f44" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7e24548f7cb651efae6a0aa83fcb9ac0.png" xmlns="">0RFcYGTJKV0uwJVwgq1w3Pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vxfURKMKUUul30ERXjPF2w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/inventory.html" CVScreenId="32314eb5-f7ed-4085-90d3-6628f5e4c3ec" CvElementArea="684, 578, 185, 57" CvTextArea="710, 596, 132, 17" CvTextArgument="ADD TO CART" CvType="Button" DesignTimeRectangle="1435, 580, 183, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='inventory_container' tag='BUTTON' type='' class='btn_primary btn_inventory' aaname='ADD TO CART' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='ADD TO CART' /&gt;" Guid="c0ba5a6c-6767-40a5-8d22-ab00cfa88229" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="32314eb5-f7ed-4085-90d3-6628f5e4c3ec" DesignTimeRectangle="1112, 453, 518, 29" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl class='inventory_item_name' tag='DIV' type='' aaname='{0}' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='{0}' /&gt;&quot;, strProductName)]" Guid="6a84d281-6b6c-4482-9881-8b29014ece07" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ca9ab30094c059159acd8d8f2f31673d.png" xmlns="">0UYVvd71qt0u0S9F7MfoEAA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Sauce Labs Bike Light" Name="strProductName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

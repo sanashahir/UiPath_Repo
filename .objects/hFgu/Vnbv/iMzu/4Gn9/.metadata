@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tax $4.00",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "4Gn9gnuHiEmagGwR0WakvA",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/4Gn9gnuHiEmagGwR0WakvA",
+  "ParentRef": "aG0BlFRUZEm3Zw-xqxWwug/iMzuU63sf0SiwuzCsEm94A",
+  "Created": "2025-10-21T09:05:30.9163639Z",
+  "Updated": "2025-10-21T09:05:30.9163639Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

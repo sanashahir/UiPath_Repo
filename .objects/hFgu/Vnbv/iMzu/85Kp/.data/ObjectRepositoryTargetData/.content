@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oRfoSBj64Eqp5lbudWAMjg" Reference="aG0BlFRUZEm3Zw-xqxWwug/85KpJikLy0ehmkmW-ec44w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/checkout-step-two.html" CVScreenId="da75b84a-f9e3-45a9-9e70-e165315fc0be" CvType="AnyWordGroup" DesignTimeRectangle="160, 737, 1600, 65" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='summary_subtotal_label' parentid='checkout_summary_container' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='summary_subtotal_label' parentid='checkout_summary_container' tag='DIV' type='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;" Guid="c3cab47b-2749-4d53-acc9-d0f613003a9a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6e8700c09ed934a29401b88b7771b65.png" xmlns="">0cT2rhCnqtE-MVYTr_TwADQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

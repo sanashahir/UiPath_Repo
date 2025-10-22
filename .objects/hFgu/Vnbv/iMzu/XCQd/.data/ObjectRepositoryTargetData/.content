@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Cy6kc9Tc50maFUEPjhLNsA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/checkout-step-two.html" CVScreenId="8847373d-d7de-458b-aedb-6a4a07c63962" CvElementArea="1644, 912, 118, 57" CvTextArea="1671, 930, 61, 17" CvTextArgument="FINISH" CvType="Button" DesignTimeRectangle="1646, 914, 114, 54" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='FINISH' parentid='checkout_summary_container' tag='A' /&gt;" Guid="d6877dc8-5329-4a4f-89f0-b70127e1396e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d5298bcd0282f019cbc7b1e6c2d172d1.png" xmlns="">0fUqg4hYc8EenrYLVNNhrlg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

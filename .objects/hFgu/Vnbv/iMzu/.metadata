@@ -1,0 +1,16 @@
+﻿{
+  "Name": "swagLabs",
+  "Type": "Screen",
+  "Id": "iMzuU63sf0SiwuzCsEm94A",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/iMzuU63sf0SiwuzCsEm94A",
+  "ParentRef": "aG0BlFRUZEm3Zw-xqxWwug/VnbvLNDMyE-Pf1dxmWBvqg",
+  "Created": "2025-10-21T05:09:36.8289637Z",
+  "Updated": "2025-10-21T10:15:41.7142416Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

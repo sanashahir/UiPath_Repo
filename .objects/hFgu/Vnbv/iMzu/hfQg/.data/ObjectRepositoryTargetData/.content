@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iQiXUqrIbk2AV4EipwJukA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/checkout-step-one.html" CVScreenId="d8cd4ffc-4058-4a7c-958e-e0ad34a16b48" CvElementArea="717, 614, 482, 50" CvType="InputBox" DesignTimeRectangle="722, 612, 475, 52" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='postal-code' tag='INPUT' /&gt;" Guid="ed24bac3-bd1f-4aac-85a2-505abdf7b39b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1e33814c6a1c9d6a5531dbd8d2e516fd.png" xmlns="">0aBZuef9oeEuc1jhGlc_YzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

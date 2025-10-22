@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sauce Labs Backpack",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "dM9v20QRqEegOSuQTHryVQ",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/dM9v20QRqEegOSuQTHryVQ",
+  "ParentRef": "aG0BlFRUZEm3Zw-xqxWwug/iMzuU63sf0SiwuzCsEm94A",
+  "Created": "2025-10-21T05:28:05.9773147Z",
+  "Updated": "2025-10-21T05:28:05.9773147Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

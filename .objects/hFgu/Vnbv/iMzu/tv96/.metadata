@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CHECKOUT",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "tv96qU5lAEWa_KONwWa2pQ",
+  "Reference": "aG0BlFRUZEm3Zw-xqxWwug/tv96qU5lAEWa_KONwWa2pQ",
+  "ParentRef": "aG0BlFRUZEm3Zw-xqxWwug/iMzuU63sf0SiwuzCsEm94A",
+  "Created": "2025-10-21T06:49:02.9725924Z",
+  "Updated": "2025-10-21T06:49:02.9725924Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

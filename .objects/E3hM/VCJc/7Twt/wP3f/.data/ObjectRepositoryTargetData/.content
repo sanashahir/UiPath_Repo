@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZFwjZQIEPkWDfZpRgj9HBA" Reference="aG0BlFRUZEm3Zw-xqxWwug/wP3fNliXgkKMQcQEPhlakg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/inventory.html" CVScreenId="bfcd2886-ed3f-492d-aec7-1534e8e8acae" CvElementArea="685, 543, 184, 56" CvTextArea="709, 561, 133, 17" CvTextArgument="ADD TO CART" CvType="Button" DesignTimeRectangle="686, 545, 183, 54" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='inventory_container' tag='BUTTON' /&gt;" Guid="41724eea-cedb-40e7-8cf5-0afd81dfb187" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bfcd2886-ed3f-492d-aec7-1534e8e8acae" CvTextArea="361, 419, 244, 27" CvTextArgument="Sauce Labs Backpack" CvType="Text" DesignTimeRectangle="363, 418, 519, 28" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl class='inventory_item_name' tag='DIV' type='' aaname='{0}' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sauce Labs Backpack' /&gt;&quot;, itemName)]" Guid="ee08172f-94c8-40b0-9088-3b99bf7e54aa" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="139155d7e7fa3c5168b0fdb47610ecff.png" xmlns="">0Pni0DC3zX0WlYCHd1-HS7A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="itemName" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
